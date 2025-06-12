@@ -12,7 +12,7 @@ This is my Personal Desktop AI Voice Assistant. It can Open any website, check t
 8) Can Change the Volume Level of the device (Can do mute and unmute also)
 9) Can take screenshots
 
-### It will work only on Windows and it will need python and all it's dependacies installed in the system before it runs.
+> It will work only on Windows and it will need python and all it's dependacies installed in the system before it runs.
 
 ## How to use?
 1) It has a Face lock inside it so 1st it will detect your face based on the given Grayscale pictures in the samples folder
@@ -28,8 +28,9 @@ This is my Personal Desktop AI Voice Assistant. It can Open any website, check t
 11) say "close" or "exit" to terminate the program
 12) Or you can ask anything and it will answer you using openAi
 
-## For Developers
+# For Developers
 create a config.py file and write down your OpenAi API Key inside it Like this -
->> apikey = "your-api-key-here"
+`apikey = "your-api-key-here"`
 
-#### Follow me for more Awesome projects like this
+<br>
+Follow me for more Awesome projects like this
